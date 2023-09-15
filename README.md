@@ -1,6 +1,7 @@
 # Emperor Shop Script
 ## A Single Vendor Shop with works Local Monero Daemon
 Emperor Shop Script is a single vendor market application. Build with Laravel 9, TailwindCSS and DaisyUI. Does not requires Javascript and works with Monero Local Daemon.
+Inspired from Eckmar's Marketplace Script
 ## The Unlicense
 
 ==== DIRECTORY PERMISSIONS after storage:link command ====

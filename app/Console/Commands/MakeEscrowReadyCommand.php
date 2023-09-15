@@ -36,3 +36,4 @@ class MakeEscrowReadyCommand extends Command
         // Everything went well, return 0
         return 0;
     }
+}
